@@ -1,5 +1,7 @@
 # Task List app using vanilla javascript
 
-### Here i use localStorage so you navar loose your Task List
+### This is a very basic Task Management app, you can add task,filter through them, and delete that task.
 
-[Live Demo](http://devsayan.tech/Task-List/)
+#### I've used local storage so you'll never lose your data even after you close the app
+
+[Click for Live Demo](http://devsayan.tech/Task-List/)
